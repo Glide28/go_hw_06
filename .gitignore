@@ -1,0 +1,6 @@
+*.exe
+*.test
+.idea/
+.vscode/
+cover.out
+cover.html
